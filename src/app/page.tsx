@@ -5,7 +5,7 @@ import Tasks from '../components/Tasks'; // ระบุตำแหน่งท
 const HomePage: React.FC = () => {
   return (
     <div>
-      <h1>Task Management</h1>
+      <h1>NextJS Todo CRUD With MongoDB</h1>
       <Tasks />
     </div>
   );
